@@ -4,6 +4,13 @@ Links used in slides:
 - [Google Gemini Imagen 3](https://deepmind.google/technologies/imagen-3/)
 - [Datadog Website](https://datadoghq.com)
 - [Cloud Native Reference Architecture (CNCF)](https://architecture.cncf.io/)
+- [Google Cloud Well-Architected Framework](https://cloud.google.com/architecture/framework)
 
 Everything else:
-- [Accelerate Modernization with Google Cloud and Datadog](https://www.datadoghq.com/resources/cloud-excellence-gcp-well-architected/)
+- [Google Cloud Monitoring with Datadog](https://www.datadoghq.com/solutions/googlecloud/)
+- Accelerate Modernization with Google Cloud and Datadog - will link new version when LPG is live
+- [Datadog Container Monitoring](https://www.datadoghq.com/product/container-monitoring/)
+- [Datadog Serverless Monitoring](https://www.datadoghq.com/product/serverless-monitoring/)
+- [Datadog Kubernetes Autoscaling](https://www.datadoghq.com/product/kubernetes-autoscaling/)
+- [Highlights from Google Cloud Next '25: Feature Roundup Blog Post](https://www.datadoghq.com/blog/google-next-2025-recap/)
+  
