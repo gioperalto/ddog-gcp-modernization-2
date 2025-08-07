@@ -7,6 +7,7 @@ Links used in slides:
 - [Google Cloud Well-Architected Framework](https://cloud.google.com/architecture/framework)
 
 Everything else:
+- [Start a Datadog Free Trial](https://www.datadoghq.com/free-datadog-trial/)
 - [Google Cloud Monitoring with Datadog](https://www.datadoghq.com/solutions/googlecloud/)
 - Accelerate Modernization with Google Cloud and Datadog - will link new version when LPG is live
 - [Datadog Container Monitoring](https://www.datadoghq.com/product/container-monitoring/)
