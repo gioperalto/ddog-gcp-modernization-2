@@ -9,7 +9,7 @@ Links used in slides:
 Additional reading on Datadog for Google Cloud monitoring and modernization:
 - [Start a Datadog Free Trial](https://www.datadoghq.com/free-datadog-trial/?utm_source=event&utm_medium=qrcode&utm_campaign=webinar-202508gcpmodernization)
 - [Google Cloud Monitoring with Datadog](https://www.datadoghq.com/solutions/googlecloud/)
-- [Accelerate Modernization with Google Cloud and Datadog](https://www.datadoghq.com/resources/google-cloud-modernization-solutions-brief/)
+- [Modernize your Google Cloud environment with Datadog](https://www.datadoghq.com/resources/google-cloud-modernization-solutions-brief/)
 - [Datadog Container Monitoring](https://www.datadoghq.com/product/container-monitoring/)
 - [Datadog Serverless Monitoring](https://www.datadoghq.com/product/serverless-monitoring/)
 - [Datadog Kubernetes Autoscaling](https://www.datadoghq.com/product/kubernetes-autoscaling/)
