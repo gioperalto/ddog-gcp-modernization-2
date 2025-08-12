@@ -6,7 +6,7 @@ Links used in slides:
 - [Cloud Native Reference Architecture (CNCF)](https://architecture.cncf.io/)
 - [Google Cloud Well-Architected Framework](https://cloud.google.com/architecture/framework)
 
-Everything else:
+Additional reading on Datadog for Google Cloud monitoring and modernization:
 - [Start a Datadog Free Trial](https://www.datadoghq.com/free-datadog-trial/?utm_source=event&utm_medium=qrcode&utm_campaign=webinar-202508gcpmodernization)
 - [Google Cloud Monitoring with Datadog](https://www.datadoghq.com/solutions/googlecloud/)
 - [Accelerate Modernization with Google Cloud and Datadog](https://www.datadoghq.com/resources/google-cloud-modernization-solutions-brief/)
