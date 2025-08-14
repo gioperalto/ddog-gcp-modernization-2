@@ -14,4 +14,6 @@ Additional reading on Datadog for Google Cloud monitoring and modernization:
 - [Datadog Serverless Monitoring](https://www.datadoghq.com/product/serverless-monitoring/)
 - [Datadog Kubernetes Autoscaling](https://www.datadoghq.com/product/kubernetes-autoscaling/)
 - [Highlights from Google Cloud Next '25: Feature Roundup Blog Post](https://www.datadoghq.com/blog/google-next-2025-recap/)
-  
+
+Demo code:
+- [Online Boutique (Dogstore is based off this code)](https://github.com/shermdog/gcp-microservices-demo/tree/main)
